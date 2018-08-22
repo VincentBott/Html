@@ -7,7 +7,7 @@ public class Main {
 
     private static final String BESTANDSNAAM="tekst.html";
     private static final String TITEL = "Mijn eerste HTML bestand";
-    private static final String[] PARAGRAFEN = {"De eerste paragraaf", "De tweede paragraaf"};
+    private static final String[] PARAGRAFEN = {"De eerste paragraaf", "De tweede paragraaf", "Dit is mijn eigen paragraaf"};
 
 
 

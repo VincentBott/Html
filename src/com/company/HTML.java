@@ -18,7 +18,7 @@ public class HTML {
 
     public String getHTML() {
 
-        return "<html>\n<head>\n<title>" + titel + "</title>\n</head>\n<body>"
+        return "<html>\n<head>\n<title>" + titel + "</title>\n</head>\n<body>"    //  Kan ook met String.format()
                 + "\n<h1>" + titel + "</h1>"
                 + "\n" + paragraaf
 
